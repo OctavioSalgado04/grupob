@@ -1,0 +1,7 @@
+inyeccion
+SELECT * FROM users WHERE(name = "username") AND (password='1' or '1' = '1');
+codicion de carrera
+SELECT balance FROM bank WHERE (user_id = 1);
+UPDATE bank SET balance = -100 WHERE (user_id = 1);
+SQLAlchemy
+
